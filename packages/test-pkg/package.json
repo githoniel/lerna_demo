@@ -1,6 +1,7 @@
 {
   "name": "@demo/test-pkg",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@demo/test-pkg2": "^1.0.0"
+  }
 }
