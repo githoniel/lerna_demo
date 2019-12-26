@@ -14,5 +14,6 @@
   "license": "ISC",
   "peerDependencies": {
     "@demo/test-pkg2": "^1.0.0"
-  }
+  },
+  "gitHead": "396d3a222b0377ce59dd8410bccf76f3c258f09a"
 }
